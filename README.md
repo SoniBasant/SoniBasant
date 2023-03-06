@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoniBasant
+- 👋 Hi, I’m Basant Soni
 - 👀 I’m interested in Web development and AI
 - 🌱 I have learned HTML5, CSS3 and Vanilla JavaScript. Bootstrap. I’m currently making projects on the same. Learning React. Improving JavaScript.
 - 💞️ I’m looking to collaborate on web development
