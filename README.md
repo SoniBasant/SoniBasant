@@ -6,11 +6,8 @@
   - HTML5
   - CSS3
   - JavaScript
-  - Tailwind CSS
-  - React
 
   Supportive-
-  - Version Control > Git
   - Code Editor > VS Code
 - 📫 How to reach me:- Right now on GitHub, Email is in Portfolio
 - 🗂️ My Projects:- GitHub, [Codepen](https://codepen.io/sonibasant), [Frontend Mentor](https://www.frontendmentor.io/profile/SoniBasant), [FreeCodeCamp](https://www.freecodecamp.org/SoniBasant). User Id for all- SoniBasant
